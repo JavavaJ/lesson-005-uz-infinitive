@@ -28,61 +28,6 @@ Learn how to express learning, wanting, and starting activities in Uzbek
 
 ---
 
-## 📚 **Vocabulary**
-
-### **Essential Verbs & Activities**
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| suzish | swimming | rasm chizish | drawing |
-| mashina haydash | driving | raqsga tushish | dancing |
-| o'qish | reading | tennis o'ynash | playing tennis |
-| yozish | writing | gitara chalish | playing guitar |
-| pishirish | cooking | chang'i uchish | skiing |
-| dasturlash | programming | yoga qilish | doing yoga |
-| mashq qilmoq | to practice | shaxmat o'ynash | playing chess |
-
-### **People & Professions**
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| talaba | student | nabira | grandchild |
-| shifokor | doctor | ota-ona | parents |
-| jurnalist | journalist | | |
-
-### **Places & Objects**
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| basseyn | swimming pool | kompyuter | computer |
-| raqs darslari | dance classes | internet | internet |
-| bog'dorchilik | gardening | | |
-
-### **Languages & Subjects**
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| o'zbek tili | Uzbek language | nemis tili | German language |
-| ingliz tili | English language | fransuzcha | French |
-| rus tili | Russian language | arabcha | Arabic |
-
-### **Abstract Concepts**
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| san'at | art | xotiralar | memories |
-| musiqa | music | hikoyalar | stories |
-| bo'sh vaqt | free time | nafaqa | pension/retirement |
-| sog'lom turmush tarzi | healthy lifestyle | gullarni yetishtirish | growing flowers |
-
-### **Useful Phrases**
-| Uzbek | English |
-|-------|---------|
-| mukammal bilmoq | to know perfectly |
-| yaxshi ko'rmoq | to like/love |
-| qatnashmoq | to attend/participate |
-| har kuni | every day |
-| haftada bir marta | once a week |
-| bu yil | this year |
-| yaqinda | recently/soon |
-
----
-
 ## 💬 **Communication Practice**
 
 ### **Activity 1: Match the Meanings**
@@ -222,6 +167,63 @@ Create your own sentences using each pattern with these activities:
 - Practice saying these phrases out loud for better pronunciation
 - Try to use these structures in daily conversations
 
----
+## 💡 **Teacher's Tip:** Encourage students to share what they actually want to learn, want to do, or have started doing recently to make the practice more personal and engaging.
 
-*💡 **Teacher's Tip:** Encourage students to share what they actually want to learn, want to do, or have started doing recently to make the practice more personal and engaging.* 
+## 📚 **Vocabulary**
+
+### **Essential Verbs & Activities**
+
+| Uzbek | English | Uzbek | English |
+|-------|---------|-------|---------|
+| suzish | swimming | rasm chizish | drawing |
+| mashina haydash | driving | raqsga tushish | dancing |
+| o'qish | reading | tennis o'ynash | playing tennis |
+| yozish | writing | gitara chalish | playing guitar |
+| pishirish | cooking | chang'i uchish | skiing |
+| dasturlash | programming | yoga qilish | doing yoga |
+| mashq qilmoq | to practice | shaxmat o'ynash | playing chess |
+
+### **People & Professions**
+
+| Uzbek | English | Uzbek | English |
+|-------|---------|-------|---------|
+| talaba | student | nabira | grandchild |
+| shifokor | doctor | ota-ona | parents |
+| jurnalist | journalist | | |
+
+### **Places & Objects**
+
+| Uzbek | English | Uzbek | English |
+|-------|---------|-------|---------|
+| basseyn | swimming pool | kompyuter | computer |
+| raqs darslari | dance classes | internet | internet |
+| bog'dorchilik | gardening | | |
+
+### **Languages & Subjects**
+
+| Uzbek | English | Uzbek | English |
+|-------|---------|-------|---------|
+| o'zbek tili | Uzbek language | nemis tili | German language |
+| ingliz tili | English language | fransuzcha | French |
+| rus tili | Russian language | arabcha | Arabic |
+
+### **Abstract Concepts**
+
+| Uzbek | English | Uzbek | English |
+|-------|---------|-------|---------|
+| san'at | art | xotiralar | memories |
+| musiqa | music | hikoyalar | stories |
+| bo'sh vaqt | free time | nafaqa | pension/retirement |
+| sog'lom turmush tarzi | healthy lifestyle | gullarni yetishtirish | growing flowers |
+
+### **Useful Phrases**
+
+| Uzbek | English |
+|-------|---------|
+| mukammal bilmoq | to know perfectly |
+| yaxshi ko'rmoq | to like/love |
+| qatnashmoq | to attend/participate |
+| har kuni | every day |
+| haftada bir marta | once a week |
+| bu yil | this year |
+| yaqinda | recently/soon |
