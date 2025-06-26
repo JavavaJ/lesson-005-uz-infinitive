@@ -173,48 +173,66 @@ Create your own sentences using each pattern with these activities:
 
 ### **Essential Verbs & Activities**
 
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| suzish | swimming | rasm chizish | drawing |
-| mashina haydash | driving | raqsga tushish | dancing |
-| o'qish | reading | tennis o'ynash | playing tennis |
-| yozish | writing | gitara chalish | playing guitar |
-| pishirish | cooking | chang'i uchish | skiing |
-| dasturlash | programming | yoga qilish | doing yoga |
-| mashq qilmoq | to practice | shaxmat o'ynash | playing chess |
+| Uzbek | English |
+|-------|---------|
+| suzish | swimming |
+| rasm chizish | drawing |
+| mashina haydash | driving |
+| raqsga tushish | dancing |
+| o'qish | reading |
+| tennis o'ynash | playing tennis |
+| yozish | writing |
+| gitara chalish | playing guitar |
+| pishirish | cooking |
+| chang'i uchish | skiing |
+| dasturlash | programming |
+| yoga qilish | doing yoga |
+| mashq qilmoq | to practice |
+| shaxmat o'ynash | playing chess |
 
 ### **People & Professions**
 
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| talaba | student | nabira | grandchild |
-| shifokor | doctor | ota-ona | parents |
-| jurnalist | journalist | | |
+| Uzbek | English |
+|-------|---------|
+| talaba | student |
+| nabira | grandchild |
+| shifokor | doctor |
+| ota-ona | parents |
+| jurnalist | journalist |
 
 ### **Places & Objects**
 
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| basseyn | swimming pool | kompyuter | computer |
-| raqs darslari | dance classes | internet | internet |
-| bog'dorchilik | gardening | | |
+| Uzbek | English |
+|-------|---------|
+| basseyn | swimming pool |
+| kompyuter | computer |
+| raqs darslari | dance classes |
+| internet | internet |
+| bog'dorchilik | gardening |
 
 ### **Languages & Subjects**
 
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| o'zbek tili | Uzbek language | nemis tili | German language |
-| ingliz tili | English language | fransuzcha | French |
-| rus tili | Russian language | arabcha | Arabic |
+| Uzbek | English |
+|-------|---------|
+| o'zbek tili | Uzbek language |
+| nemis tili | German language |
+| ingliz tili | English language |
+| fransuzcha | French |
+| rus tili | Russian language |
+| arabcha | Arabic |
 
 ### **Abstract Concepts**
 
-| Uzbek | English | Uzbek | English |
-|-------|---------|-------|---------|
-| san'at | art | xotiralar | memories |
-| musiqa | music | hikoyalar | stories |
-| bo'sh vaqt | free time | nafaqa | pension/retirement |
-| sog'lom turmush tarzi | healthy lifestyle | gullarni yetishtirish | growing flowers |
+| Uzbek | English |
+|-------|---------|
+| san'at | art |
+| xotiralar | memories |
+| musiqa | music |
+| hikoyalar | stories |
+| bo'sh vaqt | free time |
+| nafaqa | pension/retirement |
+| sog'lom turmush tarzi | healthy lifestyle |
+| gullarni yetishtirish | growing flowers |
 
 ### **Useful Phrases**
 
